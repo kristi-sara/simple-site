@@ -16,7 +16,7 @@ More details about the project are available from the [About page](about.md).
 
 # Kristi Liu
 
-I am the collaboratory/DREAM Lab services analyst at the uCSB Library.
+I am the collaboratory/DREAM Lab services analyst at the UCSB Library.
 
 My responsibilities include: 
 
