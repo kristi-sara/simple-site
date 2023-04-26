@@ -1,5 +1,5 @@
 ---
-A Website
+title: Home
 ---
 
 # Kristi Liu
