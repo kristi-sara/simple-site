@@ -1,0 +1,10 @@
+#ignore everything in this folder
+data/**
+
+#ignore any csv files
+#**.csv
+
+#ignore this thing
+#.DS_Store
+
+
