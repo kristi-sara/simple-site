@@ -4,6 +4,8 @@ title: "Home"
 author: "kristi"
 ---
 
+{% include navigation.html %}
+
 # Building websites in Github
 
 ## Description
