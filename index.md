@@ -1,5 +1,7 @@
 ---
-title: Home
+layout; post
+title: "Home"
+author: "kristi"
 ---
 
 # Building websites in Github
