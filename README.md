@@ -1,5 +1,5 @@
 # simple-site
-For 4/26 workshop collab/conflict demo
+For Git workshop collab/conflict demo
 
 
 ## Learning Markdown
